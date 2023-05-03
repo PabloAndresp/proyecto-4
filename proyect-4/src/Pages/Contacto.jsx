@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "../estilos/Contacto.css";
 
 function Contacto() {
   return (
@@ -7,13 +7,13 @@ function Contacto() {
       <h1> Contacta con Nosotros</h1>
       <form id="contact-form" method="POST">
           <label htmlFor="name">Nombre</label>
-          <input name="name" placeholder="Enter full name..." type="text" />
+          <input name="name" placeholder="Ingrese su nombre" type="text" />
           <label htmlFor="email">Email</label>
-          <input name="email" placeholder="Enter email..." type="email" />
+          <input name="email" placeholder="Ingrese email..." type="email" />
           <label htmlFor="mensaje">Mensaje</label>
           <textarea
             rows="6"
-            placeholder="Entrar a mensaje..."
+            placeholder="Escribir mensaje..."
             name="mensaje"
             required
           ></textarea>

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import React from 'react'
 import "../estilos/Home.css";
-import PortadaImagen from"../assets/portada.jpg";
+import PortadaImagen from"../assets/pizza.webp";
 
 
 function Home() {
