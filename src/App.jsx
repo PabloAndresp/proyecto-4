@@ -5,8 +5,9 @@ import Menu from "./Pages/Menu";
 import Nosotros from "./Pages/Nosotros";
 import Contacto from "./Pages/Contacto";
 import Reservas from "./Pages/Reservas";
-import Footer from './Componentes/footer';
+
 import './App.css'
+import Footer from './Componentes/Footer';
 
 function App() {
   
