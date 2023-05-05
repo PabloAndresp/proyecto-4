@@ -4,6 +4,9 @@ import Mechada from "../assets/mechada.webp";
 import Vegana from "../assets/vegana.png";
 import PolloBarbecue from "../assets/polloBarbecue.jpg";
 import Hawaiana from "../assets/hawaiana.jpg";
+import Promo from "../assets/promo1.jpg"
+import Cervezas from "../assets/cervezas1.jpg"
+import Schops from "../assets/shops1.jpg"
 
 
 export const ListaMenu = [
@@ -35,6 +38,21 @@ export const ListaMenu = [
   {
     nombre: "Pollo Barbecue",
     image: PolloBarbecue,
+    precio: 8990,
+  },
+  {
+    nombre: "Promo pizza mas Schop ",
+    image: Promo,
+    precio: 8990,
+  },
+  {
+    nombre: "Variedad de Cervezas",
+    image: Cervezas,
+    precio: 8990,
+  },
+  {
+    nombre: "Schops ",
+    image: Schops,
     precio: 8990,
   },
 ];

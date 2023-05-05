@@ -21,17 +21,19 @@ function Header() {
       <div className='ladoIzquierdo' id={openLinks ? "open" : "close"} >
         <img src={Logo} />
         <div className='ocultarLinks'>
-        <Link to="/">Home</Link>
+        <Link to="/">Inicio</Link>
       <Link to="/menu">Menu</Link>
       <Link to="/nosotros">Nosotros</Link>
       <Link to="/contacto">Contacto</Link>
+      <Link to="/reservas">Reservas</Link>
         </div>
       </div>
       <div className='ladoDerecho'>
-      <Link to="/">Home</Link>
+      <Link to="/">Inicio</Link>
       <Link to="/menu">Menu</Link>
       <Link to="/nosotros">Nosotros</Link>
       <Link to="/contacto">Contacto</Link>
+      <Link to="/reservas">Reservas</Link>
       <button onClick= {moverHeaders}>
         <ReorderIcon/>
       </button>  

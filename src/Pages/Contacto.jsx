@@ -1,6 +1,7 @@
 import React from 'react'
 import "../estilos/Contacto.css";
 
+
 function Contacto() {
   return (
     <div className="Contacto">
@@ -19,8 +20,13 @@ function Contacto() {
           ></textarea>
           <button type="submit"> Enviar mensaje</button>
         </form>
+        <div>
+          <h2>Direccion: Larapinta Oriente 777.Lampa</h2>
+          <h2>Fono: 02 24413355</h2>
+          <h2>ReyPabloPizzeria.cl</h2>
+        </div>
     </div>
-  )
+  );
 }
 
 export default Contacto
