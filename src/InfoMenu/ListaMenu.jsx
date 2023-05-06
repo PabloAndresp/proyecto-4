@@ -2,7 +2,7 @@ import pepperoni from "../imagenes/pepperoni.webp";
 import Española from "../imagenes/española.jpg";
 import Mechada from "../imagenes/mechada.webp";
 import Vegana from "../imagenes/vegana1.jpg";
-import PolloBarbecue from "../imagenes/PolloBarbecue.jpg";
+import PolloBarbecue from "../imagenes/Pbarbecue1.jpg";
 import Hawaiana from "../imagenes/hawaiana.jpg";
 import Promo from "../imagenes/promo1.jpg";
 import Cervezas from "../imagenes/cervezas1.jpg";
