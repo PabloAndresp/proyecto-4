@@ -12,7 +12,7 @@
   background-size: cover;
 }
 
-.reservas .ladoDerecho {
+.Reservas  {
   height: 100%;
   flex: 50%;
   display: flex;
@@ -20,12 +20,14 @@
   justify-content: center;
 }
 
-.reservas .ladoDerecho h1 {
+.Reservas  h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: 10;
   font-size: 50px;
   margin-left: 30px;
+  text-align: center;
+ 
 }
 
 form {
@@ -38,7 +40,7 @@ form {
 }
 
 form input {
-  height: 40px;
+  height: 70px;
   width: 80%;
   border: none;
   border-bottom: 1px solid #121619;
