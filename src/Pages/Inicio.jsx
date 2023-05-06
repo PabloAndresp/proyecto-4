@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import React from 'react'
+
 import "../estilos/Inicio.css";
-import PortadaImagen from"../assets/pizzaportada.webp";
+import PortadaImagen from"../imagenes/pizzeriaPortada.jpg";
 
 
 function Inicio () {

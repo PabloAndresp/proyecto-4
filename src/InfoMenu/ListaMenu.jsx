@@ -1,18 +1,18 @@
-import Pepperoni from "../assets/pepperoni.webp";
-import Española from "../assets/española.jpg";
-import Mechada from "../assets/mechada.webp";
-import Vegana from "../assets/vegana.png";
-import PolloBarbecue from "../assets/polloBarbecue.jpg";
-import Hawaiana from "../assets/hawaiana.jpg";
-import Promo from "../assets/promo1.jpg"
-import Cervezas from "../assets/cervezas1.jpg"
-import Schops from "../assets/shops1.jpg"
+import pepperoni from "../imagenes/pepperoni.webp";
+import Española from "../imagenes/española.jpg";
+import Mechada from "../imagenes/mechada.webp";
+import Vegana from "../imagenes/vegana1.jpg";
+import PolloBarbecue from "../imagenes/PolloBarbecue.jpg";
+import Hawaiana from "../imagenes/hawaiana.jpg";
+import Promo from "../imagenes/promo1.jpg";
+import Cervezas from "../imagenes/cervezas1.jpg";
+import Schops from "../imagenes/shops1.jpg";
 
 
 export const ListaMenu = [
   {
     nombre: "Pepperoni",
-    image: Pepperoni,
+    image: pepperoni,
     precio: 7990,
   },
   {

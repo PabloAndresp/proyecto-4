@@ -1,12 +1,12 @@
-import React from 'react'
-import peperoni from "../assets/nosotros.webp";
+
+import nosotrosP from "../imagenes/nosotros.webp";
 import "../estilos/Nosotros.css";
 
 function Nosotros() {
   return (
     <div className='nosotros'>
       <div className='nosotrosTop'
-      style={{backgroundImage: `url(${peperoni})`}}
+      style={{backgroundImage: `url(${nosotrosP})`}}
       ></div>
       <div className='nosotrosBottom'>
         <h1>Sobre Nosotros</h1>

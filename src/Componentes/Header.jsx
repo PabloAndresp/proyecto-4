@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Logo from '../assets/logo.png';
+import Logo from '../imagenes/logo.png';
 import {Link,} from 'react-router-dom';
 import "../estilos/Header.css";
 import ReorderIcon from '@mui/icons-material/Reorder';
