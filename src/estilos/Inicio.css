@@ -12,8 +12,9 @@
 }
 
 .headerContainer {
-  width: auto;
+  width: 50%;
   margin-left: 50px;
+  background-color: rgb(225, 225, 225);
 }
 
 .headerContainer h1 {
