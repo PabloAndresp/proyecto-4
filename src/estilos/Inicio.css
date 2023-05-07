@@ -14,7 +14,7 @@
 .headerContainer {
   width: 50%;
   margin-left: 50px;
-  background-color: rgb(225, 225, 225);
+  background: rgb(225, 225, 225,0.4);
 }
 
 .headerContainer h1 {
@@ -48,7 +48,7 @@
 }
 
 .headerContainer button:hover {
-  background-color: #07090a;
+  background-color: #121619;
   cursor: pointer;
   transition: 0.3s ease-in;
 }
