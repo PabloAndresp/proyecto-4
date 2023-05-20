@@ -42,7 +42,7 @@ export default function Reservas() {
 
   return (
     <div className="Reservas">
-      <h1>Reservas</h1>
+      
       <form  id="contact-form" method="POST">
           <label htmlFor="name">Nombre</label>
           <input name="nombre" type="text"  ref={refNombre} value={nombre} onChange={(event) => {setNombre(event.target.value)}}autoFocus/>
